@@ -1,5 +1,5 @@
 ---
-name: Postgres SvelteKit Starter
+name: venture
 slug: postgres-sveltekit
 description: Simple SvelteKit template that uses a Postgres database.
 framework: Svelte
@@ -14,13 +14,15 @@ relatedTemplates:
   - postgres-kysely
 ---
 
-# Postgres SvelteKit Starter
+# venture
+
+![Venture Logo](static/venture.png)
 
 Simple SvelteKit template that uses a Postgres database.
 
 ## Demo
 
-https://postgres-sveltekit.vercel.app/
+https://venture-seven.vercel.app/
 
 ## How to Use
 
